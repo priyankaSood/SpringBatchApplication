@@ -1,0 +1,8 @@
+---
+applications:
+- name: SpringBatch
+  memory: 512M
+  host: SpringBatch
+  domain: mybluemix.net  
+  services:
+  - mysql-spring
